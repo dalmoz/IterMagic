@@ -53,4 +53,3 @@ while [ $COUNTER -lt $EOF ]; do
 done
 ## cleanup
 rm temp.of
-#printf "0x%X: ",  $1
